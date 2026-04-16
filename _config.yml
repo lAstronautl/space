@@ -2,4 +2,6 @@ title: Space theme
 description: Space is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-space
+remote_theme: lAstronautl/space
+plugins:
+  - jekyll-remote-theme
