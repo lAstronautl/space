@@ -5,3 +5,8 @@ google_analytics:
 remote_theme: lAstronautl/space
 plugins:
   - jekyll-remote-theme
+header_links:
+  - title: Main menu
+    url: https://lastronautl.github.io/space/
+  - title: Another page
+    url: https://lastronautl.github.io/space/another-page.html
